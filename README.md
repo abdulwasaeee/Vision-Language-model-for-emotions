@@ -48,13 +48,3 @@ Vision supports all emotions; language supports a subset. Fusion logic explicitl
 
 ---
 
-## Motivation
-
-Designed as a lightweight, interpretable baseline for emotion-aware human–robot interaction.
-Focuses on clarity, modularity, and explainable decision making rather than end-to-end opacity.
-
----
-
-## Status
-
-Educational / research prototype.
